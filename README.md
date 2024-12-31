@@ -103,7 +103,7 @@ url=your_api_url
 
 3. Run the application:
 ```bash
-python app.py
+python Scrape_and_Chat.py
 ```
 
 4. In the GUI:
